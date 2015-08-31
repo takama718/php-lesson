@@ -7,4 +7,4 @@ function fact($n){
 		return $i;
 	}
 }
-echo(fact(10));
+echo fact(10);
