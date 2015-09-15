@@ -1,4 +1,5 @@
 <?php
+#数列arrayをいれると乗数を返す
 function array_square($array){
 	$squared_array = array();
 	foreach($array as $n){
